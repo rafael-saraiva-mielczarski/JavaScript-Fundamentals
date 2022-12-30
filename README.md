@@ -1,2 +1,4 @@
 # JavaScript-Fundamentals
-- This repo is used as based so I can consult in any doubts I'll have in the future related to JavaScript
+
+- All the learnings I had from a Udemy course are here.
+- This repo is used as a base so I can consult in any doubts in the future related to JavaScript.
